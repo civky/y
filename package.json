@@ -1,0 +1,28 @@
+{
+  "name": "Cati",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.15.1",
+    "connect-flash": "~0.1.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.2.0",
+    "ejs": "~2.4.1",
+    "express": "~4.13.4",
+    "express-session": "~1.0.0",
+    "fs": "0.0.1-security",
+    "ip": "1.1.3",
+    "method-override": "~1.0.0",
+    "morgan": "~1.7.0",
+    "mysql": "^2.11.1",
+    "passport": "~0.1.17",
+    "passport-local": "~0.1.6",
+    "path": "^0.12.7",
+    "sequelize": "^3.24.1",
+    "sequelize-attribute-roles": "0.0.2",
+    "serve-favicon": "~2.3.0"
+  }
+}
